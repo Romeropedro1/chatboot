@@ -23,7 +23,7 @@ Este projeto é uma aplicação web simples de chatbot criada com [Streamlit](ht
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/Romeropedro1/chat boot.git
+   git clone https://github.com/Romeropedro1/chatboot.git
    cd "python Dev Criação de Site e Sistemas"
 
 Crie um ambiente virtual (opcional, mas recomendado):
