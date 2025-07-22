@@ -29,20 +29,20 @@ Este projeto é uma aplicação web simples de chatbot criada com [Streamlit](ht
 2. Crie um ambiente virtual (opcional, mas recomendado):
 
    python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
+   source venv/bin/activate  # Linux/macOS
+   venv\Scripts\activate     # Windows
 
 3. Instale as dependências:
 
-pip install streamlit python-dotenv openai
+   pip install streamlit python-dotenv openai
 
 4. Crie um arquivo .env com sua chave da OpenAI:
 
-OPENAI_API_KEY=sua_chave_aqui
+   OPENAI_API_KEY=sua_chave_aqui
 
 5. Execute a aplicação:
 
-streamlit run main.py
+   streamlit run main.py
 
 
 
